@@ -1,0 +1,10 @@
+[
+    {
+        "id": "exp-music",
+        "day": 3,
+        "name": "Music",
+        "url": "music",
+        "backgroundColor": "#298d99",
+        "color": "#fff"
+    }
+]
