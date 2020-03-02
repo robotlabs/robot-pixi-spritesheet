@@ -1,5 +1,5 @@
 const loaderManifest = {
-  base: 'experiences-assets/exp-music/imgs/',
+  base: 'assets/imgs/',
   spritesheets: [
     {
       name: 'bat',
