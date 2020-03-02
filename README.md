@@ -1,7 +1,8 @@
-#### QUIZ FIREBASE INSTRUCTIONS 
+#### Skeleton. Pixi + Spritesheet manager
 
-go in cloud-functions with terminal. 
-run `firebase login` 
-run `firebase deploy` 
-OR
-`firebase deploy --only functions`
+go in terminal. 
+run `npm i` 
+run `npm start` ( use HTTPS is part of the start script) 
+
+Quick boilerplate to have a automated spritesheet manager.
+Just use assets-manifest and animations-manifest
